@@ -1,0 +1,16 @@
+.stopGame {
+    margin-left: auto;
+}
+
+.header{
+    display: flex;
+    padding: 15px 0;
+}
+.btnPlayer{
+    border:1px solid #ccc;
+    display: flex;
+    align-items:  center;
+    justify-self: center;
+    padding: 15px 10px;
+    margin-right: 15px;
+}

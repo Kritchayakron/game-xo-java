@@ -1,0 +1,26 @@
+
+.table-xo{
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.xo-list {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  border: 1px solid;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.table-xo-row {
+  display: flex;
+  flex-direction: row;
+}
