@@ -1,5 +1,5 @@
 # specification:
-- java
+- Spring boots (Java)
 - reactjs
 - mongodb 
 
